@@ -1,30 +1,23 @@
-import { Layout, } from 'antd'
-import { useState } from 'react'
-import NavigationBar from './module/navbar';
-import ProfileSummary from './module/content/profileSummary';
-import FooterComp from './module/footer';
-import { Content } from 'antd/es/layout/layout';
-import ContentComp from './module/content';
+import About from "./component/About";
+import BasicDetails from "./component/basicDetails/BasicDetails";
+import Experience from "./component/Experience";
+import Footer from "./component/footer/Footer";
+import Header from "./component/header/Header";
+import TechnicalSkills from "./component/TechnicalSkills";
+
 
 const App = () => {
 
   return (
-    <Layout>
-      <NavigationBar />
-
-      <Content
-        style={{
-          marginLeft: "200px",
-          marginRight: "200px"
-        }}
-      >
-        <ProfileSummary />
-        <hr />
-        <ContentComp />
-      </Content>
-      <FooterComp />
-    </Layout>
+    <>
+      <Header />
+      <BasicDetails />
+      <About />
+      <Experience />
+      <TechnicalSkills />
+      <Footer />
+    </>
   )
 }
 
-export default App
+export default App;
