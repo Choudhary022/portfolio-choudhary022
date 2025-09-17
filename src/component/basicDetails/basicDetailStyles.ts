@@ -10,7 +10,8 @@ export const BasicDetailContainer = styled(Box)(({ theme }) => ({
     gap: 15,
     [theme.breakpoints.down('sm')]: {
         flexDirection: "column",
-        alignItems: "center"
+        alignItems: "center",
+        margin:"20px 5px 0px 5px"
     },
 }));
 

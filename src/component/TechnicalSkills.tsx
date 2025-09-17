@@ -14,6 +14,9 @@ const TechnicalSkills = () => {
                 <div className="skill-item">Git &amp; CI/CD</div>
                 <div className="skill-item">HTML5 &amp; CSS3</div>
                 <div className="skill-item">Redux Toolkit</div>
+                <div className="skill-item">Vite  &amp; Parcel</div>
+                <div className="skill-item">Vite  &amp; Parcel</div>
+                <div className="skill-item">Agile Methodology</div>
             </div>
         </section>
     )

@@ -1,4 +1,4 @@
-import About from "./component/About";
+import About from "./component/about/About";
 import BasicDetails from "./component/basicDetails/BasicDetails";
 import Experience from "./component/Experience";
 import Footer from "./component/footer/Footer";
