@@ -2,9 +2,7 @@ import { Box, Typography } from "@mui/material";
 import { DetailContainer } from "./styles";
 import { FaRegCalendarCheck } from "react-icons/fa";
 
-
 const WorkExperience = () => {
-
 
     return (<DetailContainer>
 
@@ -23,7 +21,7 @@ const WorkExperience = () => {
             <Box sx={{ display: "flex", gap: 0.5 }}>
 
                 <FaRegCalendarCheck />
-                <Typography variant="subtitle2">February 2023 - Present</Typography>
+                <Typography variant="subtitle2">02/2023 - Present</Typography>
             </Box>
 
         </Box>

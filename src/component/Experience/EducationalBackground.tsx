@@ -8,11 +8,9 @@ import { FaRegCalendarCheck } from 'react-icons/fa6';
 
 const EducationalBackground = () => {
 
-
     return (<Stack
         spacing={2}
     >
-
         <DetailContainer>
 
             <Box sx={{
@@ -31,7 +29,7 @@ const EducationalBackground = () => {
 
                     <FaRegCalendarCheck />
 
-                    <Typography variant="subtitle2">March 2022 - September 2022</Typography>
+                    <Typography variant="subtitle2">03/2022 - 09/2022</Typography>
                 </Box>
 
             </Box>
@@ -58,7 +56,7 @@ const EducationalBackground = () => {
                 <Box sx={{ display: "flex", gap: 0.5 }}>
 
                     <FaRegCalendarCheck />
-                    <Typography variant="subtitle2">August 2016 - September 2020</Typography>
+                    <Typography variant="subtitle2">08/2016 - 09/2020</Typography>
                 </Box>
 
             </Box>
@@ -88,7 +86,7 @@ const EducationalBackground = () => {
 
                     <FaRegCalendarCheck />
 
-                    <Typography variant="subtitle2">July 2015 - March 2016</Typography>
+                    <Typography variant="subtitle2">07/2015 - 03/2016</Typography>
                 </Box>
 
             </Box>
