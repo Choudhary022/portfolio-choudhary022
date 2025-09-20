@@ -36,7 +36,7 @@ const BasicDetails = () => {
                     color="primary"
                     component="a"
                 
-                    href="public\Akash-Choudhary-resume.docx.pdf"
+                    href="public\Akash-Choudhary-resume.pdf"
                     download
                     sx={{ padding: "2px", marginLeft: "10px" }}
                 >
