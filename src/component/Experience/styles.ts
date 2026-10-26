@@ -10,10 +10,6 @@ export const WorkExperienceContainer = styled(Box)(() => ({
 
 export const DetailContainer = styled(Box)(() => ({
     padding: "10px",
-    boxShadow: "0 4px 6px rgba(0, 0, 0, 0.3)"
+    boxShadow: "0 3px 5px rgba(0, 0, 0, 0.2)"
 
 }))
-
-
-
-

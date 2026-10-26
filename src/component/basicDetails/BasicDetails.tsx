@@ -36,13 +36,13 @@ const BasicDetails = () => {
                     color="primary"
                     component="a"
                 
-                    href="public\Akash-Choudhary-resume.pdf"
+                    href="public\Akash_Choudhary_Resume.pdf"
                     download
                     sx={{ padding: "2px", marginLeft: "10px" }}
                 >
                     Download Resume
                 </Button>
-                <p>Full-Stack Java Developer &amp; React Enthusiast</p>
+                <p>Full-Stack Java Developer</p>
 
             </Box>
         </BasicDetailContainer>
