@@ -47,7 +47,7 @@ const EducationalBackground = () => {
             }}>
                 <Box>
 
-                    <Typography variant="subtitle1">B.Tech Mechanical Engineering</Typography>
+                    <Typography variant="subtitle1">B.Tech</Typography>
                     <Typography variant="subtitle2">
                         Dr. A.P.J. Abdul Kalam Technical University, UP
                     </Typography>
